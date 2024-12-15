@@ -9,4 +9,5 @@ itsthenetwork/nfs-server-alpine
 itzg/minecraft-server
 adguard/adguardhome
 vaultwarden/server
+bitwarden/server
 lanol/filecodebox
