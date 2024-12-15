@@ -11,3 +11,4 @@ adguard/adguardhome
 vaultwarden/server
 bitwarden/server
 lanol/filecodebox
+binwiederhier/ntfy
