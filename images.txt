@@ -1,2 +1,12 @@
 hello-world
 nginx
+fauria/vsftpd
+atmoz/sftp
+bytemark/webdav
+dockurr/samba
+xhofe/alist
+itsthenetwork/nfs-server-alpine
+itzg/minecraft-server
+adguard/adguardhome
+vaultwarden/server
+lanol/filecodebox
