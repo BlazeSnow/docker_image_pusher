@@ -12,3 +12,4 @@ vaultwarden/server
 bitwarden/server
 lanol/filecodebox
 binwiederhier/ntfy
+homeassistant/home-assistant
