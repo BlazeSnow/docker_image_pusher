@@ -13,3 +13,4 @@ bitwarden/server
 lanol/filecodebox
 binwiederhier/ntfy
 homeassistant/home-assistant
+teamspeak
